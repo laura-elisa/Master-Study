@@ -1,0 +1,74 @@
+// **Group members profiles**   
+// Each profile consists of (1) avatar, (2) username, (3) personal description, (4) number of "likes" the profile will receive throughout the interaction
+	
+window.others = {
+  "posts" : [
+      {
+        "avatar": "avatars/others/george.png",
+        "username": "Corgii",
+        "text": "Salü zäme, Geowissenschaftler hier! Ich bin gerne draussen in der Natur und gehe regelmässig in einer Studentengruppe klettern. Wenn ihr übrigens auch gern klettert, schaut doch mal beim Akademischen Kletterclub Basel vorbei!",
+        "likes": [45000, 50000, 110000, 150000] //4
+      },
+      {
+        "avatar": "avatars/others/sarah.png",
+        "username": "Sarah",
+        "text": "Hallo ich bin die Sarah, ich bin Teilzeitstudentin und Teilzeitmami. Eigentlich Vollzeitmami :-) Daneben spiele ich leidenschaftlich gerne Beachvolley zu warmen Jahreszeiten und zu kalten Jahreszeiten backe ich gerne Kekse",
+        "likes": [1000, 12000, 14000,15000,35000,80000,100000,110000,150000,20000] //9
+      },
+      {
+        "avatar": "avatars/others/john.png",
+        "username": "Jojo",
+        "text": "was soll ich da erzählen, meine Hobbyys sind Gitarre spielen, ab und zu compose ich auch was oder jamme mit meinen WG leuten. Ich wohne hier im Gundeli Quartier, dem schönsten Ort in Basel;)",
+		"likes": [20000, 21000] //2
+      },
+      {
+        "avatar": "avatars/others/anca.png",
+        "username": "ABCD",
+        "text": "Das ist das erste mal an dem ich an einer Studie teilnehme, ich bin gespannt. Ich bin ein Popcorn-liebendes Wesen, das die meiste Freizeit vor dem Fernseher verbringt. Man könnte behaupten, ich wäre unbezahlter Serien-Kritiker",
+        "likes": [10000, 12000, 40000, 80000, 120000] //5
+      },
+      {
+        "avatar": "avatars/others/niki.png",
+        "username": "JR",
+        "text": "Weil die Studie anonym sein sollte werde ich hier keine zu persönlichen Angaben machen. Ich bin bei den Geisteswissenschaften angesiedelt und bin ein Serienjunkie. Und ich liebe Burger",
+        "likes": [40000, 450000, 90000] //3
+      },
+    {
+        "avatar": "avatars/others/mary.png",
+        "username": "BettyBaker",
+        "text": "Ihr werdet mich sicher auslachen aber ich gehöre zu den leuten die während des Lockdowns das Brotbacken für sich entdeckt hat... Ich kann es euch nur empfehlen, es gibt nichts Schöneres am Morgen als der Geruch eines frischen Sauerteigs aus dem Ofen!",
+        "likes": [20000, 25000, 35000, 40000, 95000,100000,110000,150000,20000] //9
+      },
+      {
+        "avatar": "avatars/others/lauren.png",
+        "username": "Froschmann",
+        "text": "Wie ihr vielleicht aus meinem username rauslesen könnt, ist mein hobby tauchen. Ich nutze jede chance um abzutauchen (pun intended), vor allem im roten meer. Wegen corona war das reisen eine zeit lang schwierig aber jetzt geht es zum glück wieder.",
+        "likes": [12000, 38000] //2
+      },
+          {
+        "avatar": "avatars/others/kim.png",
+        "username": "Rebe",
+        "text": "Hallo ich bin die Rebe und bin im Rahmen des Erasmus-Programms dieses Jahr hier in Basel! Ich finde es total spannend, neue Leute Kennenzulernen und Neues auszuprobieren! Ich würde mich selbst als sehr weltoffene, fröhliche Persönlichkeit beschreiben, manchmal etwas verrückt. Aber normal ist doch langweilig! <3",
+        "likes": [10000, 50000, 88000, 11000, 11500, 120000, 15000] //7
+      },
+      {
+        "avatar": "avatars/others/arjen.png",
+        "username": "Kleeblatt",
+        "text": "Hallo ich bin das Kleeblatt. Ich engagiere mich gerade dafür, dass wir endlich unsere Freiheit wieder erlangen und diese unnötigen und schädlichen Corona-Massnahmen endlich aufgehoben werden. Falls ihr dieses Spiel auch satt habt, schaut doch bei den Freiheitsbebbis vorbei.",
+        "likes": [12000, 40000, 120000] //3
+      },
+      {
+        "avatar": "avatars/others/heather.png",
+        "username": "Libra",
+        "text": "Wenn ich mich mit einem einzigen Wort beschreiben müsste, dann wäre das Wort Bücherwurm. Ich bin entweder in der Bibliothek, im Buchladen oder hinter einem Buch anzutreffen. Den Spruch, never judge a book by its cover, finde ich völligen Schwachsinn: ich nehme nur Bücher in die Hand, dessen Cover mir ins Auge sticht.",
+        "likes": [13000, 50000, 80000, 88000, 120000] //5
+      },
+      {
+        "avatar": "avatars/others/jane.png",
+        "username": "Jannic",
+        "text": "Sali ich bin der Jannic und weiss gerade nicht was ich schreiben soll. Ich musste gerade einen Vortrag halten und mein Kopf ist jetzt leer. Ich mag Schokolade und Kaffe.",
+        "likes": [10000, 50000] //6
+      },
+
+    ]
+  };
