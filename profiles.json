@@ -5,56 +5,56 @@ window.others = {
   "posts" : [
       {
         "avatar": "avatars/others/george.png",
-        "username": "Corgii",
-        "text": "Salü zäme, Geowissenschaftler hier! Ich bin gerne draussen in der Natur und gehe regelmässig in einer Studentengruppe klettern. Wenn ihr übrigens auch gern klettert, schaut doch mal beim Akademischen Kletterclub Basel vorbei!",
+        "username": "Daruu",
+        "text": "Ich bin gerne draussen in der Natur mit meinem 3-jährigen Riesenwelpen;-) Bei meiner Gruppe, der Feuerwehr sind Teamplayer gefragt! Egal ob morgens um 3 oder mittags: wenn der Alarm eingeht, müssen wir uns blind aufeinander verlassen können. Neben der Kameradschaft spielt da natürlich auch die sehr gute Ausbildung eine Rolle: du lernst sehr viel Neues und auch dein eigenes Dorf besser kennen",
         "likes": [45000, 50000, 110000, 150000] //4
       },
       {
         "avatar": "avatars/others/sarah.png",
         "username": "Sarah",
-        "text": "Hallo ich bin die Sarah, ich bin Teilzeitstudentin und Teilzeitmami. Eigentlich Vollzeitmami :-) Daneben spiele ich leidenschaftlich gerne Beachvolley zu warmen Jahreszeiten und zu kalten Jahreszeiten backe ich gerne Kekse",
-        "likes": [1000, 12000, 14000,15000,35000,80000,100000,110000,150000,20000] //9
+        "text": "Über mich: ich bin Sarah, ich bin Teilzeitstudentin und Teilzeitmami. Eigentlich Vollzeitmami (: Daneben gehe ich gerne mit meiner Joggergruppe durch die Stadt joggen. Bei schlechtem Wetter bleibe ich aber lieber zuhause und mache einen Spielenachmittag.",
+        "likes": [14000,15000,35000,80000,100000,110000,150000,20000] //7
       },
       {
         "avatar": "avatars/others/john.png",
         "username": "Jojo",
-        "text": "was soll ich da erzählen, meine Hobbyys sind Gitarre spielen, ab und zu compose ich auch was oder jamme mit meinen WG leuten. Ich wohne hier im Gundeli Quartier, dem schönsten Ort in Basel;)",
-		"likes": [20000, 21000] //2
+        "text": "ich wohne in Basel und spiele gerne Gitarre. Wenn meine Mitbewohner Zeit haben dann jammen wir zusammen ein bisschen aber eine richtige Band sind wir nicht. Macht spass!",
+		"likes": [1000, 1200, 20000, 21000] //4
       },
       {
         "avatar": "avatars/others/anca.png",
-        "username": "ABCD",
-        "text": "Das ist das erste mal an dem ich an einer Studie teilnehme, ich bin gespannt. Ich bin ein Popcorn-liebendes Wesen, das die meiste Freizeit vor dem Fernseher verbringt. Man könnte behaupten, ich wäre unbezahlter Serien-Kritiker",
+        "username": "Corinna",
+        "text": "Das ist das erste mal an dem ich an einer Studie teilnehme, ich bin gespannt. Ich bin ein Popcorn-liebendes Wesen das die meiste Freizeit vor dem Fernseher verbringt. Serienjunkie oder unbezahlter Serien-Kritiker? P.S: any Haus des Geldes Fans here???",
         "likes": [10000, 12000, 40000, 80000, 120000] //5
       },
       {
         "avatar": "avatars/others/niki.png",
-        "username": "JR",
-        "text": "Weil die Studie anonym sein sollte werde ich hier keine zu persönlichen Angaben machen. Ich bin bei den Geisteswissenschaften angesiedelt und bin ein Serienjunkie. Und ich liebe Burger",
+        "username": "fuchsia",
+        "text": "Wir sind eine farbentragende, nicht-schlagende Studentenverbindung in Basel. Bei uns sind alle Studierenden der Uni Basel oder der FH Nordwestschweiz willkommen, unabhängig vom Studienfach oder -fortschritt, Geschlecht, Sexualität und politischer Gesinnung. Die Freundschaften die du in der Studentenverbindung findest, halten ein Leben lang!",
         "likes": [40000, 450000, 90000] //3
       },
     {
         "avatar": "avatars/others/mary.png",
         "username": "BettyBaker",
-        "text": "Ihr werdet mich sicher auslachen aber ich gehöre zu den leuten die während des Lockdowns das Brotbacken für sich entdeckt hat... Ich kann es euch nur empfehlen, es gibt nichts Schöneres am Morgen als der Geruch eines frischen Sauerteigs aus dem Ofen!",
+        "text": "Hei zäme, wilkomme uf mim profil. I bi do zum anes paar Onlinestudie mizmache :) lachet mi jetz nid us, aber i ghör zu dene gstörte wo während em lockdown s backe für sich entdeckt hei :) und jä, i ha die ganz hefe ufkauft, sorry...:) uf Insta gits imfall vill gruppe wo zeme baggwettbewerbe mache, isch voll cool will lüt us de ganze wält kennelernsch :)",
         "likes": [20000, 25000, 35000, 40000, 95000,100000,110000,150000,20000] //9
       },
       {
         "avatar": "avatars/others/lauren.png",
-        "username": "Froschmann",
-        "text": "Wie ihr vielleicht aus meinem username rauslesen könnt, ist mein hobby tauchen. Ich nutze jede chance um abzutauchen (pun intended), vor allem im roten meer. Wegen corona war das reisen eine zeit lang schwierig aber jetzt geht es zum glück wieder.",
-        "likes": [12000, 38000] //2
+        "username": "froschmann",
+        "text": "Wie ihr vielleicht aus meinem username rauslesen könnt, ist mein Hobby Tauchen. Ich nutze jede Chance um abzutauchen (pun intended), vor allem im Roten Meer. Dort trifft man automatisch Leute und schliesst sich zu Gruppen zusammen vor allem wenn man in die Tauchschule geht. Wir sind keine offizielle Gruppe aber wie gesagt findet man sich automatisch",
+        "likes": [12000, 21000, 38000] //3
       },
           {
         "avatar": "avatars/others/kim.png",
-        "username": "Rebe",
-        "text": "Hallo ich bin die Rebe und bin im Rahmen des Erasmus-Programms dieses Jahr hier in Basel! Ich finde es total spannend, neue Leute Kennenzulernen und Neues auszuprobieren! Ich würde mich selbst als sehr weltoffene, fröhliche Persönlichkeit beschreiben, manchmal etwas verrückt. Aber normal ist doch langweilig! <3",
+        "username": "kiki",
+        "text": "Ich bin 25 und studiere erst seit diesem Semester in Basel. In meiner Freizeit spiele ich Bowling bei den Wilddogs in Waldshut. Der Verein stellt den Spass am Bowling in den Vordergrund.",
         "likes": [10000, 50000, 88000, 11000, 11500, 120000, 15000] //7
       },
       {
         "avatar": "avatars/others/arjen.png",
-        "username": "Kleeblatt",
-        "text": "Hallo ich bin das Kleeblatt. Ich engagiere mich gerade dafür, dass wir endlich unsere Freiheit wieder erlangen und diese unnötigen und schädlichen Corona-Massnahmen endlich aufgehoben werden. Falls ihr dieses Spiel auch satt habt, schaut doch bei den Freiheitsbebbis vorbei.",
+        "username": "Veritus",
+        "text": "Moin zusammen. Ich gehöre einer Gruppe Fragenstellern und Wahrheitsfindern an. Findest du das System, in dem du lebst fair? Findest du, das System arbeitet gegen dich und kennt all deine Schritte und Gedanken? Das System hat einen Namen und Gesichter. Und wir entlarven sie.",
         "likes": [12000, 40000, 120000] //3
       },
       {
@@ -65,9 +65,9 @@ window.others = {
       },
       {
         "avatar": "avatars/others/jane.png",
-        "username": "Jannic",
-        "text": "Sali ich bin der Jannic und weiss gerade nicht was ich schreiben soll. Ich musste gerade einen Vortrag halten und mein Kopf ist jetzt leer. Ich mag Schokolade und Kaffe.",
-        "likes": [10000, 50000] //6
+        "username": "abcd",
+        "text": "sorry aber ich bin nur für die unterschriften hier ich hab keine lust was zu schreiben. ijdiw ji jfsjeijijia fdsjfkj weijfsjfk mejmkaj ",
+        "likes": [10000, 50000] //2
       },
 
     ]
